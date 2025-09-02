@@ -4,6 +4,7 @@
 # Demo_MyEcomShop_Alvin
 Welcome to my Ecommerce shop project
 
+Deploy url: https://dynamic-sfogliatella-98b0a3.netlify.app/
 
 # 🛍️ Ecommerce Shop Project
 
